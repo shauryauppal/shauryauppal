@@ -22,7 +22,7 @@ I have experience in developing end to end data science models helping companies
 
 To discuss further, about my data journey you may reach out to me at [shauryauppal00111@gmail.com] or connect on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shaurya-uppal) or schedule a Google Meets [call here](https://calendly.com/shauryauppal/)
 
-<center><img src="https://media-exp1.licdn.com/dms/image/C4D03AQGuLFTXQ6JkHQ/profile-displayphoto-shrink_200_200/0/1616167005100?e=1623283200&v=beta&t=ThHuCHmqi9ML477NNcgk3-LUg5eMb3NAKUrBBESC8zs" alt="Avatar" style="width:200px; border-radius: 50%;"></center>
+<center><img src="https://miro.medium.com/fit/c/262/262/1*pTKu7GyiWUNPPI2VqTGNFA.jpeg" alt="Avatar" style="width:200px; border-radius: 50%;"></center>
 
 
 [GitHub](https://github.com/shauryauppal)&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/shaurya-uppal/)&nbsp;&nbsp;&nbsp;[Medium](https://medium.com/@shauryauppal)&nbsp;&nbsp;&nbsp;
