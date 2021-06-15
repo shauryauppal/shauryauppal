@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About 
-I am a data scientist who has 2.5+ years experience of working with burgeoning companies like [EpiFi](https://epifi.com) and [1mg](https://1mg.com) as full time employee; [InterviewBit](https://www.interviewbit.com/), [Dezyre](https://www.dezyre.com/), and, [RateCity](https://www.ratecity.com.au/) as data scientist subject matter expert and freelance data science consultant. I have a bias for action, solution-oriented, and have a good track record in communicating with stakeholders and establishing credibility. My role involves deciphering heaps of data, analyzing it, churning out meaningful insights from the data, and assisting stakeholders to make data-driven decisions.
+I am a data scientist who has 3 years experience of working with burgeoning companies like [EpiFi](https://epifi.com) and [1mg](https://1mg.com) as full time employee; [InterviewBit](https://www.interviewbit.com/), [Dezyre](https://www.dezyre.com/), and, [RateCity](https://www.ratecity.com.au/) as data scientist subject matter expert and freelance data science consultant. I have a bias for action, solution-oriented, and have a good track record in communicating with stakeholders and establishing credibility. My role involves deciphering heaps of data, analyzing it, churning out meaningful insights from the data, and assisting stakeholders to make data-driven decisions.
 
 I have experience in developing end to end data science models helping companies move business metrics. I constantly learn new things and explore new realms of data science.
 
