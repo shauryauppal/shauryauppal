@@ -29,4 +29,4 @@ To discuss further, about my data journey you may reach out to me at [shauryaupp
 <br>
 ![Profile View](https://komarev.com/ghpvc/?username=shauryauppal)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryauppal&theme=onedark" alt="shauryauppal" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/shaurya-uppal/"><img src="https://github-profile-trophy.vercel.app/?username=shauryauppal&theme=onedark" alt="shauryauppal" /></a> </p>
