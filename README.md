@@ -24,6 +24,12 @@ To discuss further, about my data journey you may reach out to me at [shauryaupp
 
 <center><img src="https://miro.medium.com/fit/c/262/262/1*pTKu7GyiWUNPPI2VqTGNFA.jpeg" alt="Avatar" style="width:200px; border-radius: 50%;"></center>
 
+---
+
+## Subscribe to my Newsletter - <a href = "https://www.linkedin.com/newsletters/problem-solving-data-science-6874965456701198336/">Problem Solving & Data Science
+<img width="505" alt="Screenshot 2021-12-31 at 1 04 31 PM" src="https://user-images.githubusercontent.com/20338789/147810039-f500beec-8251-4bd7-807e-63bfcb9c3b53.png"></a>
+
+--- 
 
 [GitHub](https://github.com/shauryauppal)&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/shaurya-uppal/)&nbsp;&nbsp;&nbsp;[Medium](https://medium.com/@shauryauppal)&nbsp;&nbsp;&nbsp;
 <br>
